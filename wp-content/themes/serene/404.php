@@ -2,6 +2,7 @@
 /**
  * @package Serene
  * @since Serene 1.0
+*test add
  */
 
 get_header(); ?>
